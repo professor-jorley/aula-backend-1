@@ -1,4 +1,5 @@
 # aula-backend-1
-**Disciplina: Versionamento de Código com Git e GitHub
-**Professor: Jorley Lazaroto Zimermann Huy
-**Descrição: Esta aula prática aborda os fundamentos do controle de versão para projetos de tecnologia. O objetivo é dominar os conceitos básicos de repositórios, histórico de alterações e colaboração na nuvem, garantindo **boas práticas de desenvolvimento de sistemas e preparando o ambiente para trabalhos em equipe
+**Nome Completo:** Professor Jorley Lazaroto Zimermann Huy
+**Turma:** Tecnico Desenvolvimento de Sistemas - 2A
+
+**O que espero aprender:** Espero dominar o controle de versão com Git e GitHub para otimizar a gestão do desenvolvimento de sistemas e aplicar essas ferramentas na criação de projetos colaborativos e no mercado de tecnologia.
