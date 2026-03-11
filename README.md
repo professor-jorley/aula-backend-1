@@ -1,5 +1,5 @@
 # aula-backend-1
-**Nome Completo:** Prof. Jorley Lazaroto Zimermann Huy
+**Nome Completo:** Professor Jorley Lazaroto Zimermann Huy
 
 **Turma:** Tecnico Desenvolvimento de Sistemas - 2A
 
